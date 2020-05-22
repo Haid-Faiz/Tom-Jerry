@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tom&amp;Jerry</string>
+    <string name="BackButton" />
+    <string name="Back"><![CDATA[<]]></string>
+</resources>
